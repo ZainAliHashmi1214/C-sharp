@@ -1,0 +1,6 @@
+﻿Build started at 6:37 PM...
+1>------ Build started: Project: Exceptions and Exceptions handling, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Exceptions and Exceptions handling -> C:\Users\Zain Hashmi\source\repos\Exceptions and Exceptions handling\bin\Debug\net8.0\Exceptions and Exceptions handling.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 6:37 PM and took 07.294 seconds ==========
